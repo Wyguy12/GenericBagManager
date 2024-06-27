@@ -1,26 +1,4 @@
 
-/*
-
-// This version is setup to run via the terminal
-{
-
-    "version": "0.2.0",
-    "configurations": [
-    {
-        "type": "java",
-        "name": "Launch Java Program",
-        "request": "launch",
-        "mainClass": "com.wyattfredrickson.Program4", 
-        "vmArgs": "--add-modules javafx.controls,javafx.fxml"
-    },
-
-
-    ]
-}
-
-
-*/
-
 
 // Setup JSON to launch the program directly from the "run Java" button. 
 {
